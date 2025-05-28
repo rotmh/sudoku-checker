@@ -1,10 +1,11 @@
 [package]
 name = "sudoku-checker"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A sudoku checker only using the type system"
 authors = ["Rotem Horesh (rotmh)"]
 license = "MIT"
+repository = "https://github.com/rotmh/sudoku-checker"
 keywords = ["sudoku", "type-system", "compile-time"]
 
 [dependencies]
